@@ -48,7 +48,7 @@ $(function(){
 
 		test2: function() {
 
-			console.log('Sam is a boff');
+			console.log('test');
 
 		}
 
